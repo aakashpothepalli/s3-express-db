@@ -1,0 +1,14 @@
+{
+    "routes": [
+        { "src": "/db/getall","methods":["GET"], "dest": "/api/getall.js" },
+        { "src": "/db/insert","methods":["POST"], "dest": "/api/insert.js" },
+        { "src": "/db/update","methods":["POST"], "dest": "/api/update.js" },
+        { "src": "/db/get","methods":["GET"], "dest": "/api/get.js" },
+        { "src": "/db/delete","methods":["POST"], "dest": "/api/delete.js" }
+
+
+
+
+
+      ]
+}

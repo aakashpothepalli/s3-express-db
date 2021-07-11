@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@dashpilot/s3-json-db": "^1.0.7"
+  }
+}

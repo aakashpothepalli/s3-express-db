@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@dashpilot/s3-json-db": "^1.0.7"
+    "@dashpilot/s3-json-db": "^1.0.7",
+    "aws-sdk": "^2.943.0"
   }
 }
